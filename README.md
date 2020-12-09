@@ -59,5 +59,5 @@ Huffman于1952年提出一种编码方法，该方法完全依据字符出现概
 - 压缩后的图片保存到compressed_image.jpg 
 - Huffman Tree 对象以二进制形式保存在encode.bin
 
-####作者
+# 图片编码与解码
 ZTF tju 
