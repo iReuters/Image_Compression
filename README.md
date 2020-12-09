@@ -59,4 +59,4 @@ Huffman于1952年提出一种编码方法，该方法完全依据字符出现概
 - Huffman Tree 对象以二进制形式保存在encode.bin
 
 ###作者
-ZTF tju
+ZTF tju 
